@@ -1,5 +1,5 @@
 # TrojanWar
-This is a group project for a CYOA based on a Trojan War story
+This is a group project for a CYOA based on a Hercules’ Adventure
 // Jesus Salgado, James Blackwell, Pallavi Pattanashetti
 
 // Date Revised: 10/22/2025
