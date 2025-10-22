@@ -1,3 +1,18 @@
 h1{
     background-color: red;
 }
+
+.GoldBlackground{
+    background-color: rgb(213, 193, 10);
+}
+.BlueBlackground{
+    background-color: rgb(6, 200, 234);
+}
+
+.FancyFont1{
+    font-style:fancy;
+}
+
+.FancyFont2{
+    font-style: italic;
+}
