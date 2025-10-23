@@ -1,6 +1,8 @@
-body{
-    background-color:bisque;
+body {
+  background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
+  background-repeat: no-repeat;            /* Prevent the image from repeating */
 }
+
 h1 {
 
     color: brown;
