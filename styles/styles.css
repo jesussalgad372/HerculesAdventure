@@ -11,7 +11,7 @@ h1 {
     font-style:italic;
 }
 .Gold{
-    color: gold;
+    color: rgb(255, 225, 0);
 }
 
 .red{
@@ -19,5 +19,5 @@ h1 {
 }
 
 .blue{
-    color: aqua;
+    color: rgb(1, 199, 199);
 }
