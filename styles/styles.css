@@ -1,6 +1,22 @@
 .Statue{
   background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
-  background-repeat: no-repeat;            /* Prevent the image from repeating */
+  background-repeat: no-repeat; 
+             /* Prevent the image from repeating */
+}
+
+.story {
+  text-align: right;
+  width: 78rem;
+}
+
+.container {
+    border:3px solid red;
+display: flex;
+flex-direction: row;
+/* main(primary) Axes.cross(secondary)*/
+justify-content: flex-end;
+height: 90vh;
+align-items:right;
 }
 .RefusedCallBackground{
     background-color: black;
