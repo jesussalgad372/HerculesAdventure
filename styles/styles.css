@@ -1,32 +1,12 @@
 body{
     background-color:bisque;
 }
-h1{
-    background-color: red;
+h1 {
+
+    color: brown;
 }
 
-.GoldBlackground{
-    background-color: rgb(213, 193, 10);
-}
-.BlueBlackground{
-    background-color: rgb(6, 200, 234);
-}
 
 .FancyFont1{
     font-style:italic;
 }
-
-.RedColor{
-    color: red;
-}
-.Yellow{
-    color: gold;
-}
-
-
-.color{
-    color:aqua;
-}
-
-
-
