@@ -1,6 +1,15 @@
-body {
+.Statue{
   background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
   background-repeat: no-repeat;            /* Prevent the image from repeating */
+}
+.RefusedCallBackground{
+    background-color: black;
+}
+.RedTextLayOut{
+    background-color: rgb(255, 2, 2);
+}
+.whiteText{
+    color: antiquewhite;
 }
 
 h1 {
