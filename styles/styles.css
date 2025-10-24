@@ -10,12 +10,14 @@
   background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
   background-repeat: no-repeat;
   background-position: right;
+  
              /* Prevent the image from repeating */
 }
 .NoStop{
   background-image: url('/Pictures/Stop.png'); /* Path to your image */
   background-repeat: no-repeat;
-  background-position: bottom-left;
+  background-position: top;
+  height: 90vh;
              /* Prevent the image from repeating */
 }
 .Happy{
@@ -44,7 +46,7 @@
   height: 100vh;
 }
 .RefusedCallBackground{
-    background-color: bisque;
+    background-color: rgb(183, 164, 140);
 }
 .RedTextLayOut{
     background-color: rgb(255, 2, 2);
@@ -65,7 +67,7 @@ h1 {
     font-style:italic;
 }
 .Gold{
-    color: rgb(162, 144, 7);
+    color:gold
 }
 
 .red{
