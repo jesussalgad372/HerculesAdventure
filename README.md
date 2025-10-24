@@ -19,4 +19,4 @@
 
 // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment
+// Person who Peer Reviewed your assignment Lucas Guptill: web page and story is really fun and wicked, somewhere along the way in the true heros reward path it gets a little messy and the css breaks, think you just dont have it bound back to your index properly but otherwise the story and endings are all achievable and the site works properly, amazing work you guys!
