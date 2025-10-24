@@ -3,6 +3,12 @@
   background-repeat: no-repeat; 
              /* Prevent the image from repeating */
 }
+.NoStop{
+  background-image: url('/Pictures/Stop.png'); /* Path to your image */
+  background-repeat: no-repeat;
+  background-position: bottom-left;
+             /* Prevent the image from repeating */
+}
 
 .story {
   text-align: right;
