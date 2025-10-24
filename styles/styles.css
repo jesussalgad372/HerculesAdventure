@@ -9,6 +9,12 @@
   background-position: bottom-left;
              /* Prevent the image from repeating */
 }
+.Happy{
+  background-image: url('/Pictures/Hercules2.jpg') ; /* Path to your image */
+  background-repeat: no-repeat
+
+             /* Prevent the image from repeating */
+}
 
 .story {
   text-align: right;
@@ -56,4 +62,7 @@ h1 {
 
 .blue{
     color: rgb(1, 199, 199);
+}
+.right{
+    right: 7;
 }
