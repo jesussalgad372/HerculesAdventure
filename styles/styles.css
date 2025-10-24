@@ -3,9 +3,7 @@
     background-repeat: no-repeat;
     background-position: right;
     height: 90vh;
-    width: 50rem;
 }
-
 
 .Statue{
   background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
