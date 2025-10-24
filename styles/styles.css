@@ -19,7 +19,7 @@
 .story {
   text-align: right;
   padding: 1rem;
-  font-size: larger;
+  font-size: large;
 }
 
 .container {
@@ -30,8 +30,8 @@
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
-  width: 50rem;
-  height: 100vh;
+  /* width: 50rem;
+  height: 100vh; */
 }
 .RefusedCallBackground{
     background-color: rgb(120, 120, 120);
@@ -44,7 +44,8 @@
 }
 
 h1 {
-
+    text-align: right;
+    padding: 1rem;
     color: brown;
 }
 
