@@ -1,6 +1,7 @@
 .Statue{
   background-image: url('/Pictures/heraclesStand.jpg'); /* Path to your image */
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
+  background-position: right;
              /* Prevent the image from repeating */
 }
 .NoStop{
@@ -17,9 +18,10 @@
 }
 
 .story {
-  text-align: right;
+  text-align: left;
   padding: 1rem;
-  font-size: large;
+  font-size: larger;
+
 }
 
 .container {
@@ -34,7 +36,7 @@
   height: 100vh;
 }
 .RefusedCallBackground{
-    background-color: rgb(120, 120, 120);
+    background-color: bisque;
 }
 .RedTextLayOut{
     background-color: rgb(255, 2, 2);
@@ -44,9 +46,10 @@
 }
 
 h1 {
-    text-align: right;
+    text-align: center;
     padding: 1rem;
     color: brown;
+    font-size: xx-large;
 }
 
 
