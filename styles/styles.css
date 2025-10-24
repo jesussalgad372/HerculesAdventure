@@ -6,17 +6,19 @@
 
 .story {
   text-align: right;
-  width: 78rem;
+  padding: 1rem;
 }
 
 .container {
-    border:3px solid red;
-display: flex;
-flex-direction: row;
-/* main(primary) Axes.cross(secondary)*/
-justify-content: flex-end;
-height: 90vh;
-align-items:right;
+  border: 3px solid red;
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 50rem;
+  height: 100vh;
 }
 .RefusedCallBackground{
     background-color: black;
