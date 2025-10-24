@@ -14,7 +14,7 @@
              /* Prevent the image from repeating */
 }
 .NoStop{
-  background-image: url('/Pictures/Stop.png'); /* Path to your image */
+  background-image: url('/Pictures/StopMan.png'); /* Path to your image */
   background-repeat: no-repeat;
   background-position: top;
   height: 90vh;
@@ -35,7 +35,7 @@
 }
 
 .container {
-  border: 3px solid red;
+  border: 3px;
   position: absolute;
   top: 0;
   right: 0;
@@ -45,15 +45,22 @@
   width: 50rem;
   height: 100vh;
 }
+.containerleft {
+  border: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 50rem;
+  height: 100vh;
+}
 .RefusedCallBackground{
     background-color: rgb(183, 164, 140);
 }
-.RedTextLayOut{
-    background-color: rgb(255, 2, 2);
-}
-.whiteText{
-    color: antiquewhite;
-}
+
+
 
 h1 {
     text-align: center;
